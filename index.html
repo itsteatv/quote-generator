@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quote Generator</title>
+    <script defer src="./js/script.js"></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <!-- Dark Mode -->
+    <div class="toggle-dark"></div>
+    <div class="container">
+      <i class="ri-sun-fill"></i>
+      <i class="ri-moon-fill"></i>
+      <div class="dark-mode"></div>
+    </div>
+
+    <!-- QUOTE -->
+    <div class="q-container">
+      <header class="header">Quote Generator</header>
+      <div class="quote">
+        <p class="quote-text"></p>
+        <!-- AUTHOR -->
+        <div class="author">
+          <div></div>
+        </div>
+      </div>
+      <!-- BUTTONS -->
+      <div class="button">
+        <div class="icon">
+          <a class="github" href="https://github.com/itsteatv" target="_blank"
+            ><i id="github" class="ri-github-line"></i
+          ></a>
+          <i id="copy" class="ri-clipboard-line"></i>
+          <i id="twitter" class="ri-twitter-line"></i>
+          <button class="new-quote"></button>
+        </div>
+      </div>
+          <!-- LOADER -->
+    <div class="loader" id="loader"></div>
+    </div>
+
+  </body>
+</html>

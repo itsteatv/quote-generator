@@ -35,7 +35,7 @@ I use Javascript for some logic، CSS for styling the app Also, HTML to build th
 
 ## :globe_with_meridians: Demo Version 
 
-[Demo](https://login-menu.netlify.app/)
+[Demo](https://quote-generator-demo.netlify.app/)
 
 ## :hammer: Tools
 

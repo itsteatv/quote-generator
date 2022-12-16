@@ -16,7 +16,7 @@ that you can generate new quotes from famous and historical peope,
 
 I use Javascript for some logic، CSS for styling the app Also, HTML to build the whole structure of this app
 
-* Note: Both HTML (HyperText Markup Language) & CSS (Cascading Style Sheets) are Not a programming language
+* Note: Both HTML (HyperText Markup Language) & CSS (Cascading Style Sheets) are Not a programming language.
 
 
 ## :sparkles: Features
